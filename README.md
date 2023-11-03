@@ -25,7 +25,7 @@ This Burger Builder web application is a hands-on project created using React, i
 3. Install dependencies:
     ```npm install```
 4. Start the development server:
-    ```npm start``
+    ```npm start```
 5. Open your browser and visit `http://localhost:3000` to use the application.
 
 ## Acknowledgments
